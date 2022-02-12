@@ -1,0 +1,38 @@
+h1{
+    background-color: #80e6f0;
+    height: 215px;
+    width: 388px;
+    border-width: 12px;
+    border-style: solid;
+    border-color: darkblue;
+
+    padding-top: 37px;
+    padding-right: 98px;
+    padding-bottom: 12px;
+    padding-left: 98px;
+
+    padding: 37px 98px 12px 98px;
+
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+
+    margin: auto;
+
+    outline-width: 3px;
+    outline-style: solid;
+    outline-color: black;
+
+    border: 10px solid black; /*comando acima de maneira mais simples*/
+}
+
+a{
+    border-width: 4px;
+    border-style: solid; /*solid, groove, double*/
+    border-color: red;
+    padding-top: 4px;
+    padding-right: 7px;
+    padding-bottom: 4px;
+    padding-left: 7px;
+}
